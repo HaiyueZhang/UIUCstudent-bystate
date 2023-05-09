@@ -5,7 +5,7 @@
 
 ### Purpose
 
-- **Plot1 (Table1):** show the students with Specific Degree from one State by Years. You can change the input values of state and degree to view the line chart of changes on number of students and tabular output in table1.
+- **Plot1 (Table1):** show the students with Specific Degree from one State by Years. You can change the input values of state and degree to view the line chart of changes on number of students and tabular output in table1.  
 
 - **Plot2 (Table2):** show the students' Degree Distribution in one State within specific year. You can change the input values of state and year to view the pie chart of students' Degree Distribution and tabular output in table2. The result of table2 reacts to the input icon "Filter Table to State Name". Also, the input "Year" is conditionally dependent on the input "State".
 
@@ -15,7 +15,7 @@
 
 - **Student_bystate:** delete "total" column and rename column names from the original dataset
 
-- **Student_bystate_degree:** delete "total" column, rename column names, and lengthen number of rows by decreasing "Undergraduate", "Professional", "Graduate" columns, which calls this column as "Degree" and values to "Count".
+- **Student_bystate_degree:** delete "total" column, rename column names, and lengthen number of rows by decreasing "Undergraduate", "Professional", "Graduate" columns, which calls this column as "Degree" and values to "Count". 
 
 - By using this application, users can develop a better understanding of the higher education landscape in the United States and make informed decisions about their own educational pursuits or those of others.
 
